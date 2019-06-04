@@ -5907,7 +5907,7 @@
     'descriptionMoreURL':'https://docs.couchcms.com/tags-reference/editable/image.html'
 
 
-#EDITABLE THUMBNAIL
+#EDITABLE IMAGE
   "<cms:editable name='prop_image' label='Image' desc='Upload main image of property' type='thumbnail' />":
     'prefix':'editable_image'
     'body':"""
